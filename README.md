@@ -12,8 +12,7 @@ that showcases networking and the ease of using a picker in SwiftUI.
 - Networking and Codable Protocol
 
 ## Screenshots
-
-[![image.png](https://i.postimg.cc/MG8Sbj06/image.png)](https://postimg.cc/G4zVbtSV)
+[![image.png](https://i.postimg.cc/jqMXhqdf/image.png)](https://postimg.cc/5jFL4Vz9)
 
 ## Usage
 

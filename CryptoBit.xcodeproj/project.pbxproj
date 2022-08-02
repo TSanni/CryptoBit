@@ -11,6 +11,20 @@
 		83440DD428967E7700770B45 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83440DD328967E7700770B45 /* ContentView.swift */; };
 		83440DD628967E7800770B45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83440DD528967E7800770B45 /* Assets.xcassets */; };
 		83440DD928967E7800770B45 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83440DD828967E7800770B45 /* Preview Assets.xcassets */; };
+		83440DE028968AD900770B45 /* CryptoManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83440DDF28968AD900770B45 /* CryptoManager.swift */; };
+		8391EDBB28989CA90076AF83 /* TitilliumWeb-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDAF28989CA90076AF83 /* TitilliumWeb-Bold.ttf */; };
+		8391EDBC28989CA90076AF83 /* TitilliumWeb-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDB028989CA90076AF83 /* TitilliumWeb-BoldItalic.ttf */; };
+		8391EDBD28989CA90076AF83 /* TitilliumWeb-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDB128989CA90076AF83 /* TitilliumWeb-SemiBold.ttf */; };
+		8391EDBE28989CA90076AF83 /* TitilliumWeb-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDB228989CA90076AF83 /* TitilliumWeb-Italic.ttf */; };
+		8391EDBF28989CA90076AF83 /* TitilliumWeb-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDB328989CA90076AF83 /* TitilliumWeb-Light.ttf */; };
+		8391EDC028989CA90076AF83 /* TitilliumWeb-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDB428989CA90076AF83 /* TitilliumWeb-Regular.ttf */; };
+		8391EDC128989CA90076AF83 /* TitilliumWeb-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDB528989CA90076AF83 /* TitilliumWeb-ExtraLightItalic.ttf */; };
+		8391EDC228989CA90076AF83 /* TitilliumWeb-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDB628989CA90076AF83 /* TitilliumWeb-LightItalic.ttf */; };
+		8391EDC328989CA90076AF83 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDB728989CA90076AF83 /* OFL.txt */; };
+		8391EDC428989CA90076AF83 /* TitilliumWeb-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDB828989CA90076AF83 /* TitilliumWeb-Black.ttf */; };
+		8391EDC528989CA90076AF83 /* TitilliumWeb-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDB928989CA90076AF83 /* TitilliumWeb-ExtraLight.ttf */; };
+		8391EDC628989CA90076AF83 /* TitilliumWeb-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8391EDBA28989CA90076AF83 /* TitilliumWeb-SemiBoldItalic.ttf */; };
+		8391EDC928989F140076AF83 /* FontManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8391EDC828989F140076AF83 /* FontManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,21 @@
 		83440DD328967E7700770B45 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		83440DD528967E7800770B45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83440DD828967E7800770B45 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		83440DDF28968AD900770B45 /* CryptoManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoManager.swift; sourceTree = "<group>"; };
+		8391EDAF28989CA90076AF83 /* TitilliumWeb-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-Bold.ttf"; sourceTree = "<group>"; };
+		8391EDB028989CA90076AF83 /* TitilliumWeb-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-BoldItalic.ttf"; sourceTree = "<group>"; };
+		8391EDB128989CA90076AF83 /* TitilliumWeb-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-SemiBold.ttf"; sourceTree = "<group>"; };
+		8391EDB228989CA90076AF83 /* TitilliumWeb-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-Italic.ttf"; sourceTree = "<group>"; };
+		8391EDB328989CA90076AF83 /* TitilliumWeb-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-Light.ttf"; sourceTree = "<group>"; };
+		8391EDB428989CA90076AF83 /* TitilliumWeb-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-Regular.ttf"; sourceTree = "<group>"; };
+		8391EDB528989CA90076AF83 /* TitilliumWeb-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		8391EDB628989CA90076AF83 /* TitilliumWeb-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-LightItalic.ttf"; sourceTree = "<group>"; };
+		8391EDB728989CA90076AF83 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		8391EDB828989CA90076AF83 /* TitilliumWeb-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-Black.ttf"; sourceTree = "<group>"; };
+		8391EDB928989CA90076AF83 /* TitilliumWeb-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-ExtraLight.ttf"; sourceTree = "<group>"; };
+		8391EDBA28989CA90076AF83 /* TitilliumWeb-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TitilliumWeb-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		8391EDC728989E0F0076AF83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8391EDC828989F140076AF83 /* FontManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +80,14 @@
 		83440DD028967E7700770B45 /* CryptoBit */ = {
 			isa = PBXGroup;
 			children = (
+				8391EDC728989E0F0076AF83 /* Info.plist */,
+				8391EDAE28989BCE0076AF83 /* Fonts */,
 				83440DD128967E7700770B45 /* CryptoBitApp.swift */,
 				83440DD328967E7700770B45 /* ContentView.swift */,
+				83440DDF28968AD900770B45 /* CryptoManager.swift */,
 				83440DD528967E7800770B45 /* Assets.xcassets */,
 				83440DD728967E7800770B45 /* Preview Content */,
+				8391EDC828989F140076AF83 /* FontManager.swift */,
 			);
 			path = CryptoBit;
 			sourceTree = "<group>";
@@ -65,6 +98,25 @@
 				83440DD828967E7800770B45 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8391EDAE28989BCE0076AF83 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8391EDB728989CA90076AF83 /* OFL.txt */,
+				8391EDB828989CA90076AF83 /* TitilliumWeb-Black.ttf */,
+				8391EDAF28989CA90076AF83 /* TitilliumWeb-Bold.ttf */,
+				8391EDB028989CA90076AF83 /* TitilliumWeb-BoldItalic.ttf */,
+				8391EDB928989CA90076AF83 /* TitilliumWeb-ExtraLight.ttf */,
+				8391EDB528989CA90076AF83 /* TitilliumWeb-ExtraLightItalic.ttf */,
+				8391EDB228989CA90076AF83 /* TitilliumWeb-Italic.ttf */,
+				8391EDB328989CA90076AF83 /* TitilliumWeb-Light.ttf */,
+				8391EDB628989CA90076AF83 /* TitilliumWeb-LightItalic.ttf */,
+				8391EDB428989CA90076AF83 /* TitilliumWeb-Regular.ttf */,
+				8391EDB128989CA90076AF83 /* TitilliumWeb-SemiBold.ttf */,
+				8391EDBA28989CA90076AF83 /* TitilliumWeb-SemiBoldItalic.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +177,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8391EDC628989CA90076AF83 /* TitilliumWeb-SemiBoldItalic.ttf in Resources */,
+				8391EDBB28989CA90076AF83 /* TitilliumWeb-Bold.ttf in Resources */,
+				8391EDC328989CA90076AF83 /* OFL.txt in Resources */,
 				83440DD928967E7800770B45 /* Preview Assets.xcassets in Resources */,
+				8391EDBC28989CA90076AF83 /* TitilliumWeb-BoldItalic.ttf in Resources */,
+				8391EDBF28989CA90076AF83 /* TitilliumWeb-Light.ttf in Resources */,
+				8391EDC228989CA90076AF83 /* TitilliumWeb-LightItalic.ttf in Resources */,
+				8391EDBE28989CA90076AF83 /* TitilliumWeb-Italic.ttf in Resources */,
+				8391EDBD28989CA90076AF83 /* TitilliumWeb-SemiBold.ttf in Resources */,
+				8391EDC028989CA90076AF83 /* TitilliumWeb-Regular.ttf in Resources */,
+				8391EDC128989CA90076AF83 /* TitilliumWeb-ExtraLightItalic.ttf in Resources */,
 				83440DD628967E7800770B45 /* Assets.xcassets in Resources */,
+				8391EDC528989CA90076AF83 /* TitilliumWeb-ExtraLight.ttf in Resources */,
+				8391EDC428989CA90076AF83 /* TitilliumWeb-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +201,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83440DE028968AD900770B45 /* CryptoManager.swift in Sources */,
 				83440DD428967E7700770B45 /* ContentView.swift in Sources */,
+				8391EDC928989F140076AF83 /* FontManager.swift in Sources */,
 				83440DD228967E7700770B45 /* CryptoBitApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,6 +336,7 @@
 				DEVELOPMENT_TEAM = QNXV57SQKM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CryptoBit/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +366,7 @@
 				DEVELOPMENT_TEAM = QNXV57SQKM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CryptoBit/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
